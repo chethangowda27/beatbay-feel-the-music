@@ -116,8 +116,7 @@ BEATBAY/
 
 
 ## Screenshots
-![Screenshot: ](./assets/images/no-filter.JPG)
-
+![Screenshot](./no-filter.jpg)
 
 ## ✨ **Key Highlights**
 
