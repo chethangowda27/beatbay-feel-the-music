@@ -122,6 +122,12 @@ BEATBAY/
 ![Screenshot](./Screenshot%20BB3.png)
 
 
+<img src="./Screenshot_BB.png" width="300">
+<img src="./Screenshot_BB2.png" width="300">
+<img src="./Screenshot_BB3.png" width="300">
+
+
+
 
 ## ✨ **Key Highlights**
 
