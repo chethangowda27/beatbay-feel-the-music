@@ -116,10 +116,11 @@ BEATBAY/
 
 
 ## Screenshots
-![Screenshot](./Screenshot BB.png)
-![Screenshot](./Screenshot BB1.png)
-![Screenshot](./Screenshot BB2.png)
-![Screenshot](./Screenshot BB3.png)
+![Screenshot](./Screenshot%20BB.png)
+![Screenshot](./Screenshot%20BB1.png)
+![Screenshot](./Screenshot%20BB2.png)
+![Screenshot](./Screenshot%20BB3.png)
+
 
 
 ## ✨ **Key Highlights**
