@@ -116,15 +116,9 @@ BEATBAY/
 
 
 ## Screenshots
-![Screenshot](./Screenshot%20BB.png)
-![Screenshot](./Screenshot%20BB1.png)
-![Screenshot](./Screenshot%20BB2.png)
-![Screenshot](./Screenshot%20BB3.png)
-
-
-<img src="./Screenshot%20BB.png" width="300">
-<img src="./Screenshot%20BB2.png" width="300">
-<img src="./Screenshot%20BB3.png" width="300">
+<img src="./Screenshot%20BB.png" width="500">
+<img src="./Screenshot%20BB2.png" width="500">
+<img src="./Screenshot%20BB3.png" width="500">
 
 
 
