@@ -13,10 +13,9 @@ Please download the external file to access the full project package.
 
 ## 📝 How to Use
 
-1. Clone or download this repository.
-2. Download the large file using the link above.
-3. Place the downloaded file inside the project folder (if required by the project structure).
-4. open home.html with the browser you will land in home page where you can explore website.
+1. Download the large file using the link above.
+2. Place the downloaded file inside the project folder (if required by the project structure).
+3. open home.html with the browser you will land in home page where you can explore website.
 
 
 # 🎵 **BEATBAY – Online Music Streaming & Download Platform**
